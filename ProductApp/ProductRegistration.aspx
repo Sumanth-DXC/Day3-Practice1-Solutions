@@ -13,7 +13,7 @@
             <br />
             <br />
             <br />
-            <asp:Label ID="Label1" runat="server" Text="Product Name: "></asp:Label>
+            <asp:Label ID="Label1" runat="server" Text="Mobile Name: "></asp:Label>
             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
             <br />
             <br />
